@@ -3237,6 +3237,12 @@
 
 			.wrapper.style1 a {
 				color: #ffffff;
+				text-decoration: none;
+			}
+
+			.wrapper.style1 a h4 {
+				color: #ffffff;
+				text-decoration: underline;
 			}
 
 			.wrapper.style1 strong, .wrapper.style1 b {
